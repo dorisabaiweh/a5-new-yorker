@@ -1,0 +1,146 @@
+html {
+    display: block;
+}
+
+.header {
+    width: 720px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 2px;
+    padding-bottom: 20px;
+    background-color: #ddd;
+    text-align: center;
+}
+head {
+    display: none;
+}
+div {
+    display: block;
+}
+meta {
+    display: none;
+}
+body {
+    font-family: Lora, serif;
+    display: block;
+
+}
+title {
+    display: none;
+}
+link {
+    display: none;
+}
+.headline-wrap {
+    width: 560px;
+    margin: 0 auto 50px auto;
+}
+.main-img {
+    margin-bottom: 30px;
+}
+.main-img img {
+    width: 100%;
+}
+.container, .headline-wrap {
+    width: 560px;
+    margin: 0 auto 50px auto;
+}
+.container p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+.byline {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+h2 {
+    font-size: 48px;
+    margin-top: 50px;
+    margin-bottom: 18px;
+}
+h2 {
+    display: block;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+ 
+}
+
+h3 {
+    font-style: italic;
+    font-size: 26px;
+    margin-bottom: 40px;
+    line-height: 1.3;
+    opacity: .5;
+}
+h3 {
+    display: block;
+    
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+ 
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+button {
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 2px 6px 3px;
+    border: 2px outset buttonface;
+}
+ button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em 0em 0em 0em;
+    font: 11px BlinkMacSystemFont;
+}
+button{
+    -webkit-writing-mode: horizontal-tb;
+}
+button {
+    -webkit-appearance: button;
+}
+.hide {
+    display: none;
+}
+footer {
+    background-color: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+script {
+    display: none;
+}
+.article img {
+    width: 100%;
+    margin-bottom: 7px;
+}
+.caption {
+    font-style: italic;
+    opacity: .6;
+}
